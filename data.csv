@@ -1,0 +1,17 @@
+
+text,label
+"Consistently submits assignments early and helps classmates",Active/High Performance
+"Excellent participation and strong academic progress",Active/High Performance
+"Completes tasks on time and shows great improvement",Active/High Performance
+"Regularly attends sessions and performs well",Active/High Performance
+"Proactively asks questions and finishes work efficiently",Active/High Performance
+"Missed one deadline but is catching up with coursework",Medium Risk
+"Participation has decreased slightly this week",Medium Risk
+"Some assignments are late but student is responding",Medium Risk
+"Needs occasional reminders to complete tasks",Medium Risk
+"Performance is inconsistent and requires follow up",Medium Risk
+"Has stopped submitting assignments for several weeks",High Drop-off Risk
+"Repeatedly misses classes and ignores follow up messages",High Drop-off Risk
+"No recent activity on the learning platform",High Drop-off Risk
+"Several overdue tasks and no response from student",High Drop-off Risk
+"Engagement has dropped sharply and work is incomplete",High Drop-off Risk
